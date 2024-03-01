@@ -23,7 +23,7 @@
       cursor: pointer;
       font-size: 18px;
       position: absolute;
-      left: 8px;
+      left: 45px;
       top: 8px;
     }
   }
@@ -60,6 +60,9 @@
     }
     &__textarea:focus {
       outline: none;
+    }
+    &__button {
+      align-self: center;
     }
   }
 }
