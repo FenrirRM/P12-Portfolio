@@ -1,0 +1,14 @@
+[
+  {
+    "id": "tools1",
+    "title": "GitHub",
+    "image": "../assets/skills/tools/github-mark.svg",
+    "alt": "Icône Github"
+  },
+  {
+    "id": "tools2",
+    "title": "Git",
+    "image": "../assets/skills/tools/git-mark.svg",
+    "alt": "Icône Git"
+  }
+]

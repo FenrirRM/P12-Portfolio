@@ -1,0 +1,42 @@
+[
+  {
+    "id": "project1",
+    "title": "nom du projet",
+    "category": "HTML",
+    "briefDescription": "description dos de carte",
+    "cover": "",
+    "alt": "",
+    "description": "description du projet",
+    "mission": "lorem ipsum",
+    "competences": [
+      "compétence 1",
+      "compétence 2"
+    ],
+    "tags": ["HTML", "CSS"],
+    "pictures": [
+      
+    ],
+    "site": "",
+    "github": ""
+  },
+  {
+    "id": "project2",
+    "title": "nom du projet",
+    "category": "HTML",
+    "briefDescription": "description dos de carte",
+    "cover": "",
+    "alt": "",
+    "description": "description du projet",
+    "mission": "lorem ipsum",
+    "competences": [
+      "compétence 1",
+      "compétence 2"
+    ],
+    "tags": ["HTML", "CSS"],
+    "pictures": [
+
+    ],
+    "site": "",
+    "github": ""
+  }
+]

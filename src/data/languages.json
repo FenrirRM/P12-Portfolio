@@ -1,0 +1,14 @@
+[
+  {
+    "id": "language1",
+    "title": "HTML 5",
+    "image": "../assets/skills/languages/html5.svg",
+    "alt": "Icône HTML5"
+  },
+  {
+    "id": "language2",
+    "title": "CSS 3",
+    "image": "../assets/skills/languages/css3.svg",
+    "alt": "Icône CSS3"
+  }
+]
