@@ -18,7 +18,7 @@ const GlobalStyle = createGlobalStyle`
     }
     .grid__project__card-back {
       background-color: ${(props) =>
-        props.theme.darkMode ? '#595959' : '#FFFFFF'};
+        props.theme.darkMode ? '#595959' : '#deded8'};
     }
 `
 

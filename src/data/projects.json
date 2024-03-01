@@ -1,42 +1,50 @@
 [
   {
     "id": "project1",
-    "title": "nom du projet",
+    "title": "Riding Cities",
     "category": "HTML",
-    "briefDescription": "description dos de carte",
-    "cover": "",
-    "alt": "",
-    "description": "description du projet",
-    "mission": "lorem ipsum",
+    "briefDescription": "Mettre à jour la page Internet de Riding Cities, une association sportive qui promeut le skate en région.",
+    "cover": "../assets/projects/riding-cities/cover.webp",
+    "alt": "Photo d'un skateboard",
+    "description": "Projet 2 du parcours Intégrateur Web d'OpenClassrooms, ce projet a pour but de nous faire découvrir le langage HTML, très populaire parmi les développeurs web ",
+    "mission": "Je rejoins l'agence Webonzaï pour un stage en tant que développeur junior. Romain, mon maître de stage, me demande d'actualiser la page Internet de Riding Cities en créant une nouvelle section appelée 'Les Membres Fondateurs' ; ainsi que la modification de la section existante des plannings en introduisant deux plannings : l'un pour les enfants et l'autre pour les adultes. Et enfin je doit m'assurer de la mise en place du CSS existant sur les nouveaux éléments.",
     "competences": [
-      "compétence 1",
-      "compétence 2"
+      "Intégrer des éléments sur une page web en utilisant les fondamentaux de HTML."
     ],
     "tags": ["HTML", "CSS"],
     "pictures": [
-      
+      "../assets/projects/riding-cities/mock0.webp",
+      "../assets/projects/riding-cities/mock1.webp",
+      "../assets/projects/riding-cities/mock2.webp",
+      "../assets/projects/riding-cities/mock3.webp"
     ],
-    "site": "",
-    "github": ""
+    "site": "https://fenrirrm.github.io/P2-Riding-Cities/",
+    "github": "https://github.com/FenrirRM/P2-Riding-Cities"
   },
   {
     "id": "project2",
-    "title": "nom du projet",
+    "title": "Booki",
     "category": "HTML",
-    "briefDescription": "description dos de carte",
-    "cover": "",
-    "alt": "",
-    "description": "description du projet",
-    "mission": "lorem ipsum",
+    "briefDescription": "Intégrer l'interface du site de Booki en utilisant du code HTML et CSS.",
+    "cover": "../assets/projects/booki/cover.webp",
+    "alt": "Photo d'une chambre",
+    "description": "Projet 3 du parcours Intégrateur Web d'OpenClassrooms, ce projet nous permet d'intégrer l'interface d'un site responsive en utilisant du code HTML et CSS.",
+    "mission": "Je rejoins la start-up Booki en tant que développeur en alternance. Je travaille en étroite collaboration avec Sarah, la CTO, et Loïc, l’UI designerpour mettre en place l'interface du site et la partie responsive.",
     "competences": [
-      "compétence 1",
-      "compétence 2"
+      "Installer un environnement de développement front-end",
+      "Implémenter une interface responsive avec HTML et CSS",
+      "Intégrer du contenu conformément à une maquette avec HTML et CSS"
     ],
     "tags": ["HTML", "CSS"],
     "pictures": [
-
+      "../assets/projects/booki/mock0.webp",
+      "../assets/projects/booki/mock1.webp",
+      "../assets/projects/booki/mock2.webp",
+      "../assets/projects/booki/mock3.webp",
+      "../assets/projects/booki/mock4.webp",
+      "../assets/projects/booki/mock5.webp"
     ],
-    "site": "",
-    "github": ""
+    "site": "https://fenrirrm.github.io/P3-Booki/",
+    "github": "https://github.com/FenrirRM/P3-Booki"
   }
 ]
