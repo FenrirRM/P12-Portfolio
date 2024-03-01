@@ -123,7 +123,7 @@
     "briefDescription": "Planifiez le développement du site de votre client Qwenta",
     "cover": "../assets/projects/menu-maker/cover.webp",
     "alt": "Photo d'un menu de restaurant",
-    "description": "Projet 6 du parcours Intégrateur Web d'OpenClassrooms, ce projet nous demande de mener, préparer et planifier le projet de développement d'un site.",
+    "description": "Projet 7 du parcours Intégrateur Web d'OpenClassrooms, ce projet nous demande de mener, préparer et planifier le projet de développement d'un site.",
     "mission": "Je suis développeur front-end dans l'agence de Webgencia. Soufiane, le product owner, me confie la mission de préparer la réunion de présentation du projet à notre client en développent un système de veille ; en déterminent les spécifications techniques du site . Et enfin en organisant la gestion de projet du développement du site.",
     "competences": [
       "Mettre en place une méthode de veille technologique",
@@ -142,5 +142,113 @@
       "../assets/projects/menu-maker/mock5.webp",
       "../assets/projects/menu-maker/mock6.webp"
     ]
+  },
+  {
+    "id": "project7",
+    "title": "Kasa",
+    "category": "React",
+    "briefDescription": "Créez une application web de location immobilière avec React.",
+    "cover": "../assets/projects/kasa/cover.webp",
+    "alt": "Logo de Kasa",
+    "description": "Projet 8 du parcours Intégrateur Web d'OpenClassrooms, ce projet consiste à développer la nouvelle plateforme web de location d'appartements entre particuliersde Kasa en utilisant React.",
+    "mission": "Kasa me recrute en tant que développeur front-end en freelance. Laura, la CTO, me demande de mettre en place la nouvelle plateforme web en utilisant React, grâce aux maquettes créées par Paul le designer de l'équipe.",
+    "competences": [
+      "Initialiser une application avec Create React App.",
+      "Configurer la navigation entre les pages de l'application avec React Router.",
+      "Développer des éléments de l'interface d'un site web grâce à des composants React.",
+      "Mettre en œuvre des animations CSS",
+      "Développer une interface web avec Sass."
+    ],
+    "tags": ["React", "React-Router", "Sass", "Responsive", "VSCode", "Figma"],
+    "pictures": [
+      "../assets/projects/kasa/mock0.webp",
+      "../assets/projects/kasa/mock1.webp",
+      "../assets/projects/kasa/mock2.webp",
+      "../assets/projects/kasa/mock3.webp",
+      "../assets/projects/kasa/mock4.webp",
+      "../assets/projects/kasa/mock5.webp"
+    ],
+    "github": "https://github.com/FenrirRM/P8-Kasa"
+  },
+  {
+    "id": "project8",
+    "title": "Nina Carducci",
+    "category": "SEO",
+    "briefDescription": "Optimisez le référencement d'un site de photographe.",
+    "cover": "../assets/projects/nina-carducci/cover.webp",
+    "alt": "Photo de mariage",
+    "description": "Projet 9 du parcours Intégrateur Web d'OpenClassrooms, ce projet consiste à améliorer les performances et le référencement naturel du site de la photographe Nina Carducci.",
+    "mission": "Je suis développeur front-end en freelance, et je me décide à proposer mes services d'optimisation SEO à de nouveaux clients. Je prends contact avec les administrateurs de divers sites pouvant être optimisés. Nina Carducci, photographe professionnelle à Bordeaux, accepte ma proposition d'optimisation de son site. Ma mission est donc d'optimiser son site tant sur les performances que sur le SEO. Et de mettre en avant cette optimisation en lui fournissant un rapport d'optimisation, lui présentant toutes les actions effectuées ainsi que leur impact.",
+    "competences": [
+      "Optimiser la performance d'un site web.",
+      "Présenter et expliquer les optimisations réalisées au client."
+    ],
+    "tags": ["HTML", "CSS", "JavaScript", "Responsive", "SEO"],
+    "pictures": [
+      "../assets/projects/nina-carducci/mock0.webp",
+      "../assets/projects/nina-carducci/mock1.webp",
+      "../assets/projects/nina-carducci/mock2.webp",
+      "../assets/projects/nina-carducci/mock3.webp",
+      "../assets/projects/nina-carducci/mock4.webp",
+      "../assets/projects/nina-carducci/mock5.webp"
+    ],
+    "site": "https://fenrirrm.github.io/P9-Nina-Carducci/",
+    "github": "https://github.com/FenrirRM/P9-Nina-Carducci"
+  },
+  {
+    "id": "project9",
+    "title": "724 events",
+    "category": "Debug",
+    "briefDescription": "Débuggez le site web d'une agence d'événementiel.",
+    "cover": "../assets/projects/724events/cover.webp",
+    "alt": "Photo d'un événement de 724events",
+    "description": "Projet 10 du parcours Intégrateur Web d'OpenClassrooms, ce projet consiste à débugger le site d'une agence d'événementiel appelée 724events.",
+    "mission": "Je suis développeur front-end en freelance et l'agence 724events me contacte. La mission confiée par le directeur marketing est la suivante : débugger le code du site déjà mis en place par un autre développeur qui a dû arrêté le développement, mettre en place des tests unitaires et fonctionnels ainsi que la rédaction d'un cahier de recette comprenant les différents scénarios possibles pour tester le site.",
+    "competences": [
+      "Débugger un site web grâce aux Chrome DevTools.",
+      "Rédiger un cahier de recette pour tester un site."
+    ],
+    "tags": ["React", "Tests", "Debug", "Chrome DevTools"],
+    "pictures": [
+      "../assets/projects/724events/mock0.webp",
+      "../assets/projects/724events/mock1.webp",
+      "../assets/projects/724events/mock2.webp",
+      "../assets/projects/724events/mock3.webp"
+    ],
+    "github": "https://github.com/FenrirRM/P10-724Events"
+  },
+  {
+    "id": "project10",
+    "title": "Argent Bank",
+    "category": "React",
+    "briefDescription": "Implémentez le front-end d'une application bancaire avec React.",
+    "cover": "../assets/projects/argent-bank/cover.webp",
+    "alt": "Logo d'ArgentBank",
+    "description": "Le projet 11 du parcours Intégrateur Web d'OpenClassrooms consiste à implémenter le front-end de l'application bancaire de la nouvelle banque en ligne Argent Bank en utilisant React.",
+    "mission": "J'intègre Argent Bank comme développeur front-end. Avery Moreau, chef technique, me confie la mission d'implémenter le front-end de notre application web complète et responsive avec React.",
+    "competences": [
+      "Implémenter la gestion des données avec Redux pour assurer le fonctionnement du front.",
+      "Configurer des routes API pour la communication client / serveur.",
+      "Afficher les données du back end sur l'interface via des appels API."
+    ],
+    "tags": [
+      "React",
+      "React-Router",
+      "Redux",
+      "Sass",
+      "API",
+      "Swagger",
+      "Responsive"
+    ],
+    "pictures": [
+      "../assets/projects/argent-bank/mock0.webp",
+      "../assets/projects/argent-bank/mock1.webp",
+      "../assets/projects/argent-bank/mock2.webp",
+      "../assets/projects/argent-bank/mock3.webp",
+      "../assets/projects/argent-bank/mock4.webp",
+      "../assets/projects/argent-bank/mock5.webp",
+      "../assets/projects/argent-bank/mock6.webp"
+    ],
+    "github": "https://github.com/FenrirRM/P11-ArgentBank"
   }
 ]
