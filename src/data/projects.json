@@ -35,7 +35,7 @@
       "Implémenter une interface responsive avec HTML et CSS",
       "Intégrer du contenu conformément à une maquette avec HTML et CSS"
     ],
-    "tags": ["HTML", "CSS"],
+    "tags": ["HTML", "CSS", "Responsive", "VSCode", "Figma"],
     "pictures": [
       "../assets/projects/booki/mock0.webp",
       "../assets/projects/booki/mock1.webp",
@@ -46,5 +46,101 @@
     ],
     "site": "https://fenrirrm.github.io/P3-Booki/",
     "github": "https://github.com/FenrirRM/P3-Booki"
+  },
+  {
+    "id": "project3",
+    "title": "Ohmyfood",
+    "category": "HTML",
+    "briefDescription": "Améliorez l'interface du site mobile Ohmyfood avec des animations CSS.",
+    "cover": "../assets/projects/ohmyfood/cover.webp",
+    "alt": "Photo d'un plat",
+    "description": "Projet 4 du parcours Intégrateur Web d'OpenClassrooms, ce projet consite à intégrer l'interface du site d'Ohmyfood en commençant par la version mobile et en ajoutant des animations CSS.",
+    "mission": "Je rejoins la jeune start-up Ohmyfood qui voudrait s'imposer sur le marché de la restauration parisienne. Paul, mon chef technique, me demande alors d'intégrer l'interface mobile et responsive tout en mettant en place des animations CSS.",
+    "competences": [
+      "Intégrer une maquette en mobile-first.",
+      "Mettre en œuvre des animations CSS.",
+      "Versionner son projet avec Git et Github."
+    ],
+    "tags": ["HTML", "Sass", "Responsive", "VSCode", "Figma", "Git", "GitHub"],
+    "pictures": [
+      "../assets/projects/ohmyfood/mock0.webp",
+      "../assets/projects/ohmyfood/mock1.webp",
+      "../assets/projects/ohmyfood/mock2.webp",
+      "../assets/projects/ohmyfood/mock3.webp",
+      "../assets/projects/ohmyfood/mock4.webp",
+      "../assets/projects/ohmyfood/mock5.webp"
+    ],
+    "site": "https://github.com/FenrirRM/P4-ohmyfood",
+    "github": "https://fenrirrm.github.io/P4-ohmyfood/"
+  },
+  {
+    "id": "project4",
+    "title": "Print It",
+    "category": "JavaScript",
+    "briefDescription": "Premiers pas sur le langage JavaScript en réalisant un carrousel dynamique.",
+    "cover": "../assets/projects/print-it/cover.webp",
+    "alt": "Photo un homme avec un livre ouvert",
+    "description": "Projet 5 du parcours Intégrateur Web d'OpenClassrooms, ce projet nous permet de découvrir le langage JavaScript au travers du site de Print It.",
+    "mission": "Je débute en tant que développeur front-end en freelance, et je décroche l'offre qui consiste à dynamiser le site Internet statique de Print It. Le directeur me demande alors de réaliser un carrousel dynamique.",
+    "competences": ["Programmer en utilisant les fondamentaux de JavaScript"],
+    "tags": ["HTML", "CSS", "JavaScript", "VSCode"],
+    "pictures": [
+      "../assets/projects/print-it/mock0.webp",
+      "../assets/projects/print-it/mock1.webp",
+      "../assets/projects/print-it/mock2.webp",
+      "../assets/projects/print-it/mock3.webp"
+    ],
+    "site": "https://github.com/FenrirRM/P5-Print-it",
+    "github": "https://fenrirrm.github.io/P5-Print-it/"
+  },
+  {
+    "id": "project5",
+    "title": "Portfolio - Sophie Bluel",
+    "category": "JavaScript",
+    "briefDescription": "Conception du site portfolio de l'architecte d'intérieur Sophie Bluel avec JavaScript.",
+    "cover": "../assets/projects/portfolio-sophie-bluel/cover.webp",
+    "alt": "Photo de rénovation d'un bar",
+    "description": "Projet 6 du parcours Intégrateur Web d'OpenClassrooms, ce projet nous emmène sur la conception du site portfolio d'une architecte en utilisant JavaScript et en communiquant avec une API.",
+    "mission": "Je travaille comme développeur front-end pour l'agence ArchiWebos. Ayant terminé mon dernier projet en avance, je suis envoyé en renfort sur la conception du site portfolio de l'architecte Sophie Bluel. La cheffe de projet me demande alors de créer à partir de la maquette l'interface du site ainsi que la gestion du compte de l'architecte en communiquant avec une API créée par la développeuse back-end. La connexion avec l'API permettra à Sophie Bluel de pouvoir se connecter et intéragir en ajoutant / supprimant ses travaux.",
+    "competences": [
+      "Manipuler les éléments du DOM avec JavaScript.",
+      "Gérer les événements utilisateurs avec JavaScript.",
+      "Récupérer les données utilisateurs dans le JavaScript via des formulaires."
+    ],
+    "tags": ["HTML", "CSS", "JavaScript", "Figma", "API", "Swagger"],
+    "pictures": [
+      "../assets/projects/portfolio-sophie-bluel/mock0.webp",
+      "../assets/projects/portfolio-sophie-bluel/mock1.webp",
+      "../assets/projects/portfolio-sophie-bluel/mock2.webp",
+      "../assets/projects/portfolio-sophie-bluel/mock3.webp"
+    ],
+    "github": "https://github.com/FenrirRM/P6-Portfolio-sophie-bluel"
+  },
+  {
+    "id": "project6",
+    "title": "Menu Maker",
+    "category": "Gestion de projet",
+    "briefDescription": "Planifiez le développement du site de votre client Qwenta",
+    "cover": "../assets/projects/menu-maker/cover.webp",
+    "alt": "Photo d'un menu de restaurant",
+    "description": "Projet 6 du parcours Intégrateur Web d'OpenClassrooms, ce projet nous demande de mener, préparer et planifier le projet de développement d'un site.",
+    "mission": "Je suis développeur front-end dans l'agence de Webgencia. Soufiane, le product owner, me confie la mission de préparer la réunion de présentation du projet à notre client en développent un système de veille ; en déterminent les spécifications techniques du site . Et enfin en organisant la gestion de projet du développement du site.",
+    "competences": [
+      "Mettre en place une méthode de veille technologique",
+      "Rédiger les spécifications techniques d'un projet web à partir de besoins fonctionnels",
+      "Découper une fonctionnalités en tâches pour préparer le développement",
+      "Suivre le déroulement du projet grâce à un outil de gestion de projet",
+      "Présenter la solution technique"
+    ],
+    "tags": ["Gestion de projet", "Méthode agile", "Veille technique"],
+    "pictures": [
+      "../assets/projects/menu-maker/mock0.webp",
+      "../assets/projects/menu-maker/mock1.webp",
+      "../assets/projects/menu-maker/mock2.webp",
+      "../assets/projects/menu-maker/mock3.webp",
+      "../assets/projects/menu-maker/mock4.webp",
+      "../assets/projects/menu-maker/mock5.webp",
+      "../assets/projects/menu-maker/mock6.webp"
+    ]
   }
 ]
