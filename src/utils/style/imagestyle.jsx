@@ -5,7 +5,7 @@ const StyledImageStyle = createGlobalStyle`
     .image-theme {
         box-shadow: ${(props) =>
           props.theme.darkMode
-            ? '3px 3px 10px 3px #FFFFFFcc'
+            ? '3px 3px 10px 3px #A3DEE7cc'
             : '6px 4px 12px 6px #000000cc'};
     }
 `

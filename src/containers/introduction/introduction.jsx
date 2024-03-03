@@ -2,7 +2,7 @@ import { useTheme } from "../../utils/hooks/index";
 import DownloadBtn from "../../components/downloadbtn/downloadbtn";
 import GitHub from "../../assets/icones/github.png";
 import DarkGitHub from "../../assets/icones/darkgithub.png";
-
+import ImgDev from "../../assets/img/dev.webp";
 import "../../sass/containers/_introduction.scss";
 
 const Introduction = () => {
@@ -40,9 +40,11 @@ const Introduction = () => {
               alt="Lien vers mon profil Github"
             />
           </a>
-          
         </div>
         <DownloadBtn />
+      </div>
+      <div className="intro__photo">
+        <img src={ImgDev} alt="Portrait de Matthieu Bonjour" />
       </div>
     </section>
   );

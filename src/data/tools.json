@@ -58,5 +58,11 @@
     "title": "ChatGPT",
     "image": "../assets/skills/tools/chatgpt-mark.svg",
     "alt": "Icône ChatGPT"
+  },
+  {
+    "id": "tools11",
+    "title": "Netlify",
+    "image": "../assets/skills/tools/netlify-mark.svg",
+    "alt": "Icône Netlify"
   }
 ]
