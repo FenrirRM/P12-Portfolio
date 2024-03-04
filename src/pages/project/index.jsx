@@ -55,6 +55,7 @@ const Project = () => {
                 </li>
               ))}
               <Tag />
+              <ButtonStyle />
             </div>
             <div className="project__section-carrousel">
               <Carrousel />
